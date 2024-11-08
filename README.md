@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood
 
   #### Je focus:
-  responsive
+  Responsive
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://pinkgellac.com/nl/) Ik wil de website van PinkGellac na maken. Ik wil met deze website gaan leren hoe ik webpagina's op een nette en goede manier responsive kan maken. Ook hebben ze bepaalde elementen die bewegen en hebben foto's op groot scherm een hover reactie. Ook dat lijkt me leuk om mee te kunnen spelen.
+  Ik wil de website van PinkGellac gebruiken om na te maken. https://pinkgellac.com/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Begin scherm/ home pagina 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home pagina van PinkGellac
+  <img src="readme-images/home.png" width="375px" alt="Home pagina van PinkGellac">
 
-  #### Screenshot(s) van de tweede pagina (small screen)
-  Kleuren -> alle kleuren pagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  #### Screenshot(s) van de tweede pagina (small screen):
+  Alle kleuren overzicht pagina van PinkGellac 
+  <img src="readme-images/allekleuren.png" width="375px" alt="Pagina van PinkGellac waar je een overzicht hebt van al hun kleuren nagelak">
  
 </details>
 
