@@ -56,7 +56,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: De website is heel slecht te doorlopen met een screenreader. Het verteld op sommige stukken alles en op andere stukken helemaal niks.
+  <img src="readme-images/Screenreader1.png" width="375px" alt="Afbeelding van bevinding tijdens de schrean reader Geeft alleen aan heading 2 en niet de zin">
+  <img src="readme-images/screenreader2.png" width="375px" alt="screenreader leest nu wel de hele zin voor">
+  <img src="readme-images/screenreader3.png" width="375px" alt="Screenreader geeft wederom aan dat we op een heading zijn en niet wat er staat">
+
+  mijn bevindingen na de WCAG Checklist:
+  Alle pagina's hebben netjes de juiste headings, maar er zijn wel stukjes waar een P is gebruikt inplaats van een H2.
+  <img src="readme-images/heading1homehtml.png">
+  <img src="readme-images/heading1kleurenpaginahtml.png">
+  <img src="readme-images/pinplaatsvanh2.png">
+  Ook valt het op dat de website geen rekening gheeft gehouden met screenreaders dit is namelijk ook weer terug te zien in de HTML. zo hebben alle afbeeldingen een alt text waar in alleen staat Pink Gellac.
+  <img src="readme-images/geenalttext.png">
+  Wat ook opviel is dat de sommige elementen niet in list stonden maar gewoon los van elkaar.
+  <img src="readme-images/geenol-li.png">
+
 
 </details>
 
