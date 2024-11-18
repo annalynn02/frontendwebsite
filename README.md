@@ -63,13 +63,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   mijn bevindingen na de WCAG Checklist:
   Alle pagina's hebben netjes de juiste headings, maar er zijn wel stukjes waar een P is gebruikt inplaats van een H2.
-  <img src="readme-images/heading1homehtml.png">
-  <img src="readme-images/heading1kleurenpaginahtml.png">
-  <img src="readme-images/pinplaatsvanh2.png">
+  <img src="readme-images/heading1homehtml.png" width="375px" alt="De H1 van de home pagina">
+  <img src="readme-images/heading1kleurenpaginahtml.png" width="375px" alt="De H1 van de kleuren pagina">
+  <img src="readme-images/pinplaatsvanh2.png" width="375px" alt="Een P op de home pagina inplaats van een H2">
   Ook valt het op dat de website geen rekening gheeft gehouden met screenreaders dit is namelijk ook weer terug te zien in de HTML. zo hebben alle afbeeldingen een alt text waar in alleen staat Pink Gellac.
-  <img src="readme-images/geenalttext.png">
+  <img src="readme-images/geenalttext.png" width="375px" alt="Schermafbeelding van HTML code waar in te zien is dat er geen ALT text is gebruikt">
   Wat ook opviel is dat de sommige elementen niet in list stonden maar gewoon los van elkaar.
-  <img src="readme-images/geenol-li.png">
+  <img src="readme-images/geenol-li.png" width="375px" alt="Schermafbeelding van HTML code waar in te zien is dat er geen list onderdelen zijn gebruikt">
 
 
 </details>
