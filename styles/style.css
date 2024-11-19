@@ -5,27 +5,22 @@
   box-sizing:border-box;  
 }
 
-
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+
+/* Kleuren die gebruikt worden op de website Dusty pink: #E480A1, Hot pink #F167A2, Soft pink #FFECF5, wit en zwart */
+
 :root {
-	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--color-banner: #E480A1;
+	--color-accent-text: #F167A2;
+	--color-accent-background: #FFECF5;
 }
-
-
-
-
 
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
 
