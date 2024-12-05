@@ -13,7 +13,7 @@
 
 :root {
 	--color-text:#111;
-	--color-background:#eee;
+	--color-background:#ffffff;
 	--color-banner: #E480A1;
 	--color-accent-text: #F167A2;
 	--color-accent-background: #FFECF5;
@@ -23,7 +23,7 @@ body{
 	margin:1.1em;
 	background-color: var(--color-background);
 	font-size: 1em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: OPTIRadiant, Helvetica, sans-serif;
 }
 
 header{
@@ -31,6 +31,13 @@ header{
 	flex-direction: column;
 	background-color: var(--color-background);
 	color: var(--color-text);
+}
+
+main{
+	display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(16em, 1fr) ); 
+	width:min( calc(100% - 2em), 40em);
+	margin-inline:auto;
 }
 
 nav ul{
@@ -43,18 +50,17 @@ ul{
 
 a{
 	text-decoration: none;
+	color: var(--color-text);
+}
+
+nav li{
+    list-style: none;
 }
 
 img{
-	width: 20%;
+	width: 100%;
     height: auto;
 }
-
-video{
-	width: 20%;
-    height: auto;
-}
-
 
 footer{
 	background-color: var(--color-accent-background);

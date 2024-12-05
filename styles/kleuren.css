@@ -1,0 +1,27 @@
+@import url(styles/style.css) base;
+
+h1{
+    color: var(--color-accent-text);
+}
+
+em{
+    color: var(--color-accent-text);
+}
+section:first-of-type{
+    grid-row-start: 2;
+    justify-content: space-around;
+    margin-top: 1,875em;
+    text-align: center;
+}
+section:first-of-type a{
+    color: var(--color-accent-text);
+    text-decoration: underline;
+}
+
+p:nth-of-type(2){
+    color: lightgrey;
+    text-decoration: line-through;
+}
+p:nth-of-type(4){
+    color: gray;
+}

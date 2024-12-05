@@ -1,3 +1,5 @@
+@import url(styles/style.css) base;
+
 section:first-of-type{
 	margin-top: 0.3em;
 	padding: 0.4em;
@@ -24,4 +26,45 @@ section:first-of-type a{
 	color: var(--color-background);
 	background-color: var(--color-accent-text);
 	border-radius: 0.3em;
+}
+
+section:nth-of-type(3){
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25em;
+}
+
+section:nth-of-type(3) h2{
+    grid-column: span 3;
+}
+
+section:nth-of-type(3) article{
+    text-align: center;
+    background-color: var(--color-accent-background);
+}
+
+section:nth-of-type(3) article a{
+    color: var(--color-accent-text);
+}
+
+section:nth-of-type(7){
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25em;
+}
+
+section:nth-of-type(7) img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0.3em;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+section:nth-of-type(7) img:hover{
+    width: 100%;
+    height: auto;
+    display: block;
+    transform: scale(1.1);
+    filter: brightness(0.8);
 }
