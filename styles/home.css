@@ -1,0 +1,27 @@
+section:first-of-type{
+	margin-top: 0.3em;
+	padding: 0.4em;
+	background-color: var(--color-text);
+	color: var(--color-background);
+	border-radius: 0.3em;
+}
+
+section:first-of-type h1{
+	margin: 0.6em;
+}
+
+section:first-of-type p{
+	margin: 0.6em;
+}
+
+section:first-of-type a{
+	margin: 0.6em;
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+	padding-top: 1.2em;
+	padding-bottom: 1.2em;
+	font-size: 0.7em;
+	color: var(--color-background);
+	background-color: var(--color-accent-text);
+	border-radius: 0.3em;
+}
