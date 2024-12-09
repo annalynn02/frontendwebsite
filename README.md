@@ -135,7 +135,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik snap het concept van een grid en weet hoe ik het moet toepassen, maar ik heb soms nog wel moeiten met het vormen en laten bewegen in de derecties die ik wil.
 
 
   ### Agenda voor meeting
@@ -182,7 +182,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik durf Java script niet zo goed toe te passen en loop door ziekte verzuim behoorlijk achter. Ik doe me best dit te verminderen, maar het is erg lastig. Ik ben ook op het moment nog totaal niet blij met mijn website, maar hoop dat ik in januari iets moois kan laten zien.
 
 
   ### Agenda voor meeting
@@ -190,9 +190,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Hoe krijg ik nou nettjes een plaatje achter dit stukje tekst | en dit             | en ik dit    | en dan ik dat    |
+  | Is het oke dat ik hier een div gebruik? En zo niet kan het dan op een andere manier?| dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Ik heb deze stukjes die moeten in een caroesel komen te staan hoe pak ik dat het beste aan?          | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
